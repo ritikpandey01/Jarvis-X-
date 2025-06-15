@@ -84,11 +84,6 @@ JARVIS: "Closing all browser windows!"
    HuggingFaceAPIKey=your_huggingface_api_key_here
    ```
 
-   **🔑 Get Your Free API Keys:**
-   - **Cohere API**: Visit [cohere.ai](https://cohere.ai) → Sign up → Get API key
-   - **Groq API**: Visit [groq.com](https://groq.com) → Create account → Generate key  
-   - **HuggingFace API**: Visit [huggingface.co](https://huggingface.co) → Profile → Access Tokens
-
 3. **Run JARVIS**
    ```bash
    python main.py
