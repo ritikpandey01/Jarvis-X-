@@ -4,15 +4,7 @@
   <img src="https://via.placeholder.com/800x400.png?text=Jarvis+AI+Demo" alt="Jarvis Demo">
 </div>
 
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-project-structure">Structure</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-license">License</a>
-</p>
+
 
 ## 🌟 Features
 - **Natural Voice Conversations** - Human-like interactions using advanced NLP
