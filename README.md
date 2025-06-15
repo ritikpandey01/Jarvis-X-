@@ -4,7 +4,6 @@
 
 A cool AI assistant that can talk, search, automate your PC, and much more. Built with Python and powered by voice recognition.
 
-![JARVIS Demo](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=JARVIS+AI+Assistant)
 
 ## 🎯 What Can JARVIS Do?
 
