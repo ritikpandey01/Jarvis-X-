@@ -63,7 +63,7 @@ JARVIS: "Closing all browser windows!"
 
 1. **Download & Install**
    ```bash
-   git clone https://github.com/yourusername/jarvis
+   git clone https://github.com/ritikpandey01/Jarvis-X-
    cd jarvis
    pip install -r requirements.txt
    ```
