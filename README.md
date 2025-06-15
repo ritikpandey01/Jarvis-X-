@@ -1,8 +1,6 @@
 # 🤖 Jarvis AI - Advanced Voice Assistant
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Jarvis+AI+Demo" alt="Jarvis Demo">
-</div>
+
 
 
 
