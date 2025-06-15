@@ -96,30 +96,3 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📜 License
-MIT License
-
-Copyright (c) 2023 [Your Name]
-
-Permission is hereby granted... [add full license text if needed]
-
-text
-
-**To use this**:
-1. Copy the entire code block above
-2. Create/overwrite `README.md` in your project root
-3. Make these customizations:
-   - Replace placeholder image with actual screenshots
-   - Update `yourusername` in GitHub URL
-   - Add your name in copyright
-   - Add specific voice command examples unique to your implementation
-   - Include any special setup instructions
-
-The README features:
-- Responsive layout with navigation links
-- Clean section organization
-- Visual structure guide
-- Complete setup instructions
-- Professional formatting
-
-Would you like me to add any specific technical details about your image generation or voice processing implementation?
