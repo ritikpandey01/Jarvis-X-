@@ -153,18 +153,6 @@ JARVIS/
 - **Voice too fast/slow?** Change AssistantVoice in .env file
 - **App not opening?** Check automation permissions
 
-**Get Support:**
-- Open an issue on GitHub
-- Check the troubleshooting guide
-- Join our community discussions
-
-## 🔒 Important Security Notes
-
-- **Never share your API keys publicly**
-- Keep your `.env` file private (add to .gitignore)
-- API keys are free but have usage limits
-- Monitor your API usage on respective platforms
-
 ## 🚀 Make It Better
 
 Want to add features? Here's how:
@@ -173,24 +161,11 @@ Want to add features? Here's how:
 3. Test it out
 4. Send a pull request
 
-**Ideas for contributions:**
-- Add new automation commands
-- Improve voice recognition
-- Create mobile app
-- Add more AI models
-
-## ⭐ Show Some Love
-
-If JARVIS helped you, give it a star ⭐ on GitHub!
-
-Share with friends and let them build their own AI assistant too 🚀
 
 ## 📞 Connect
 
-Built with ❤️ by [Your Name]  
-📧 Contact: your.email@gmail.com  
-🐦 Twitter: @yourusername  
-
+Built with ❤️ by [Ritik Pandey]  
+📧 Contact: your.ritikpandey.4161@gmail.com  
 ---
 
 **Ready to feel like Tony Stark? Let's get JARVIS running! 🦾**
