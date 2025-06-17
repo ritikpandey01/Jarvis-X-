@@ -1,4 +1,4 @@
-[# 🚀 JARVIS - Your Personal AI Assistant
+# 🚀 JARVIS - Your Personal AI Assistant
 
 > "Just A Rather Very Intelligent System" - Your own Iron Man assistant!
 
@@ -164,4 +164,4 @@ Built with ❤️ by [Ritik Pandey]
 ---
 
 **Ready to feel like Tony Stark? Let's get JARVIS running! 🦾**
-](https://github.com/ritikpandey01/Jarvis-X-)
+(https://github.com/ritikpandey01/Jarvis-X-)
