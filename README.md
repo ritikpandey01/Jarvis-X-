@@ -167,7 +167,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 <div align="center">
 
-**🚀 Built with ❤️ by [Ritik Pandey]**
+**🚀 Built with ❤️ by Ritik Pandey**
 
 
 </div>
